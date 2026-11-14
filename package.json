@@ -19,7 +19,7 @@
     "format:check": "prettier --check ."
   },
   "devDependencies": {
-    "html-validate": "^9.0.0",
+    "html-validate": "^11.21.0",
     "http-server": "^14.1.1",
     "prettier": "^3.3.0",
     "stylelint": "^16.0.0",
