@@ -64,7 +64,7 @@ aracploywrap-bootstrap-2021/
 
 ## Getting started
 
-Requirements: Node.js 20 or later (only for the dev tools; the site itself needs nothing).
+Requirements: Node.js 22.22+ (see `.nvmrc`) (only for the dev tools; the site itself needs nothing).
 
 ```bash
 npm install
